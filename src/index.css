@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-800 bg-gray-50 font-sans antialiased leading-relaxed;
+  }
+
+  /* Typography */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-display font-bold text-club-black mb-4;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+
+  h4 {
+    @apply text-xl md:text-2xl;
+  }
+
+  p {
+    @apply mb-4 text-gray-600;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+
+  /* Forms */
+  input,
+  textarea,
+  select {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-club-yellow focus:border-transparent outline-none transition-all duration-200;
+  }
+
+  label {
+    @apply block mb-2 font-medium text-gray-700;
+  }
+
+  /* Lists */
+  ul {
+    @apply list-disc list-inside mb-4;
+  }
+
+  ol {
+    @apply list-decimal list-inside mb-4;
+  }
+
+  /* Media */
+  img {
+    @apply max-w-full h-auto rounded-lg;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-3 bg-club-yellow text-club-black font-bold uppercase tracking-wider rounded-lg hover:bg-club-accent transform hover:-translate-y-1 transition-all duration-300 shadow-md hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-8 py-3 bg-club-black text-club-yellow font-bold uppercase tracking-wider rounded-lg hover:bg-club-dark transform hover:-translate-y-1 transition-all duration-300 shadow-md hover:shadow-lg;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-8 py-3 border-2 border-club-black text-club-black font-bold uppercase tracking-wider rounded-lg hover:bg-club-black hover:text-white transition-all duration-300;
+  }
+
+  .section-padding {
+    @apply py-20 px-4 md:px-8 max-w-7xl mx-auto;
+  }
+
+  .card {
+    @apply bg-white p-6 rounded-xl shadow-card hover:shadow-card-hover transition-shadow duration-300 border border-gray-100;
+  }
+}

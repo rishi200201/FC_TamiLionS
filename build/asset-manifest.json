@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FC_TamiLionS/static/css/main.497200e5.css",
+    "main.js": "/FC_TamiLionS/static/js/main.096b4f4b.js",
+    "static/media/balu.jpeg": "/FC_TamiLionS/static/media/balu.64ceb316df65f06be632.jpeg",
+    "static/media/pandiyan.jpeg": "/FC_TamiLionS/static/media/pandiyan.7b8602008af7461dcfa8.jpeg",
+    "static/media/muthu.jpeg": "/FC_TamiLionS/static/media/muthu.650aede2168e7c187697.jpeg",
+    "static/media/hero_football.png": "/FC_TamiLionS/static/media/hero_football.a0abb576a42c2d52827c.png",
+    "static/media/VectorX.jpeg": "/FC_TamiLionS/static/media/VectorX.7ca1f3291d22644f30f1.jpeg",
+    "static/media/education.jpeg": "/FC_TamiLionS/static/media/education.1fc687f03ccf0659e61c.jpeg",
+    "static/media/A2B.jpeg": "/FC_TamiLionS/static/media/A2B.24b2c542978dfe30e874.jpeg",
+    "static/media/Kauvery.jpeg": "/FC_TamiLionS/static/media/Kauvery.e597c7d06d8d5b2c6255.jpeg",
+    "static/media/homeGB.jpeg": "/FC_TamiLionS/static/media/homeGB.3cfd67c777191d8eface.jpeg",
+    "static/media/founderTC.jpeg": "/FC_TamiLionS/static/media/founderTC.f2c2d9817ef7235e465c.jpeg",
+    "static/media/logo.jpg": "/FC_TamiLionS/static/media/logo.826bdc22123f3d2d1692.jpg",
+    "index.html": "/FC_TamiLionS/index.html",
+    "main.497200e5.css.map": "/FC_TamiLionS/static/css/main.497200e5.css.map",
+    "main.096b4f4b.js.map": "/FC_TamiLionS/static/js/main.096b4f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497200e5.css",
+    "static/js/main.096b4f4b.js"
+  ]
+}

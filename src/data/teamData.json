@@ -1,0 +1,143 @@
+{
+  "clubInfo": {
+    "name": "FC TamiLionS",
+    "tagline": "Creating Pathways to Success in Football",
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    }
+  },
+  "history": {
+    "established": "2021",
+    "founder": "Mr. Rajarajan",
+    "focus": "Promoting football in Tamil Nadu",
+    "description": "Established in 2021 by Mr. Rajarajan with a singular focus on promoting football in Tamil Nadu, FC TamiLionS has grown rapidly to become a cornerstone of youth development in the region."
+  },
+  "mission": {
+    "points": [
+      "Groom and develop young football talent",
+      "20 players for national level participants",
+      "Provide a structured pathway to national & international football"
+    ]
+  },
+  "vision": {
+    "points": [
+      "Develop players for national-level competence",
+      "Provide exposure to professional football",
+      "Represent India in top leagues and national teams"
+    ]
+  },
+  "commitment": {
+    "points": [
+      "Producing high-quality footballers",
+      "Providing world-class training and opportunities",
+      "Significant contribution to Tamil Nadu and Indian football"
+    ]
+  },
+  "founder": {
+    "name": "Rajarajan Srinivasan",
+    "qualifications": [
+      "AIFF 'C' Licensed Coach",
+      "MBA"
+    ],
+    "background": "Former Indian Bank & National Football Player",
+    "sections": {
+      "expertise": "Coaching & Management Expertise",
+      "highlights": "Career Highlights include leading teams to state victories.",
+      "development": "Focused on holistic player development.",
+      "playingCareer": "Distinguished playing career with Indian Bank and representation at the National level."
+    }
+  },
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Nethanieal",
+      "role": "Technical Director",
+      "qualifications": "AFC A License (Equivalent)",
+      "experience": "20+ Years",
+      "achievements": "Developed multiple national players"
+    },
+    {
+      "id": 2,
+      "image": "muthu.jpeg",
+      "name": "Muthumalai",
+      "role": "Technical Lead",
+      "qualifications": "AIFF B License",
+      "experience": "15+ Years",
+      "achievements": "State team coach"
+    },
+    {
+      "id": 3,
+      "image": "balu.jpeg",
+      "name": "Bala C",
+      "role": "Head Coach",
+      "qualifications": "AIFF C License",
+      "experience": "10+ Years",
+      "achievements": "Youth development specialist"
+    },
+    {
+      "id": 4,
+      "image": "pandiyan.jpeg",
+      "name": "Pandiyan Srinivasan",
+      "role": "Coach & Mentor",
+      "qualifications": "Former Pro Player",
+      "experience": "Former ISL & I-League Player",
+      "achievements": "Professional playing experience at top level"
+    }
+  ],
+  "leagues": {
+    "name": "AIFF, State and Reliance Youth Leagues",
+    "description": "Participating in the AIFF Youth I-League and State Leagues.",
+    "ageGroups": [
+      "U-13",
+      "U-15",
+      "U-17",
+      "U-19",
+      "U-21"
+    ],
+    "details": [
+      "League structure and exposure",
+      "Scouting and national opportunities",
+      "Competitive match experience"
+    ]
+  },
+  "partnerships": [
+    {
+      "name": "Local Schools",
+      "description": "Grassroots development programs in schools across Chennai."
+    },
+    {
+      "name": "Colleges",
+      "description": "Higher education and football pathways."
+    },
+    {
+      "name": "Training Grounds",
+      "description": "Access to quality pitches and facilities."
+    },
+    {
+      "name": "Grassroots Centres",
+      "description": "Feeder centers for talent identification."
+    }
+  ],
+  "achievements": [
+    "AIFF 1-star rating (2024–25)",
+    "State & university player selections",
+    "League participation highlights"
+  ],
+  "offerings": [
+    "Soccer School",
+    "Residential Academy",
+    "School & College Team Development",
+    "Elite Youth & Senior Training",
+    "Weekend / Daily / After-school coaching"
+  ],
+  "contact": {
+    "address": "No. 10/14, Second Floor, Thiruvalluvar Salai, J J Nagar, Mogappair East, Chennai - 600 037",
+    "email": "info@fctamilions.com",
+    "phone": [
+      "+91 760 3939 766"
+    ],
+    "social": "@fctamilions"
+  }
+}
